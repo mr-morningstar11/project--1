@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+torch
+scikit-learn
+matplotlib
+transformers>=4.40,<5
